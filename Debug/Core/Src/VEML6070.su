@@ -1,0 +1,9 @@
+../Core/Src/VEML6070.c:17:13:VEML6070_setCMD	16	static
+../Core/Src/VEML6070.c:21:16:VEML6070_getVal	32	static
+../Core/Src/VEML6070.c:27:6:VEML6070_setRefreshTime	16	static
+../Core/Src/VEML6070.c:32:9:VEML6070_ClearACK	8	static
+../Core/Src/VEML6070.c:36:6:VEML6070_Init	8	static
+../Core/Src/VEML6070.c:50:6:VEML6070_Enable	8	static
+../Core/Src/VEML6070.c:57:6:VEML6070_Disable	8	static
+../Core/Src/VEML6070.c:62:6:VEML6070_setINT_STP	16	static
+../Core/Src/VEML6070.c:78:10:VEML6070_getUV	16	static
